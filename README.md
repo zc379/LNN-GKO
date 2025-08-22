@@ -7,3 +7,4 @@ The datasets used for algorithm training and plotting are available from the Dry
 training_dataset.7z: Used for model training.
 testing_dataset.7z: Used exclusively for evaluation on unseen structures and not included in training.
 Please download the datasets from the Dryad link above before running the training and result plotting scripts.
+Make sure to extract the dataset files into the data/ directory before executing the scripts
